@@ -443,3 +443,29 @@ Certifications
 </a>
 
 </p>
+
+
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting!
+
+*"Building intelligent software solutions through continuous learning, innovation, and real-world problem solving."*
+
+### 💡 Open to
+
+Software Engineering • AI/ML • Full Stack Development • Research Opportunities
+
+---
+
+### 🌱 Always Learning • Always Building • Always Improving
+
+<img src="https://komarev.com/ghpvc/?username=Vinaygopalam&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
+
+Made with ❤️ by **Vinay Gopalam**
+
+</div>
