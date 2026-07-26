@@ -269,3 +269,65 @@ https://github.com/Vinaygopalam
 </tr>
 
 </table>
+
+
+---
+
+# 📄 Research Publication
+
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+# 🏆
+
+### IEEE
+
+International Conference
+
+ICICT 2026
+
+</td>
+
+<td width="75%">
+
+## LSFTP: A Lightweight Secure File Transfer Protocol with Integrity Verification and Attack Detection for Academic Networks
+
+📍 **Published at**
+
+2026 9th International Conference on Inventive Computation Technologies (ICICT 2026)
+
+Kathmandu, Nepal
+
+---
+
+### 📚 Research Highlights
+
+- 🔐 Designed a lightweight secure file transfer protocol for academic networks.
+- 🔑 Implemented Diffie-Hellman Key Exchange.
+- 🔒 Integrated AES Encryption for secure communication.
+- 🛡 SHA-256 Hashing & HMAC Authentication.
+- 🚫 Detects replay attacks, tampering, and unauthorized access.
+- ⚡ Optimized for security with low computational overhead.
+
+---
+
+**Publisher**
+
+IEEE
+
+**DOI**
+
+10.1109/ICICT68280.2026.11510950
+
+📖 **Publication**
+
+https://ieeexplore.ieee.org/document/11510950
+
+</td>
+
+</tr>
+
+</table>
