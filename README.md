@@ -5,8 +5,16 @@ Software Engineer • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-Building intelligent software solutions using AI, Machine Learning, Python, and Web Technologies.
+Building intelligent software solutions using AI, Machine Learning, Python, and Full Stack Technologies.
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;IEEE+Research+Author;Always+Learning+🚀" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -16,6 +24,10 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 
 <a href="https://vinaygopalam.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vinaygopalam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:gopalamvinay4@gmail.com">
@@ -33,16 +45,16 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vinaygopalam&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Vinaygopalam&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science & Engineering @ **Vignan University**
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 💻 Interested in **Software Engineering & Full Stack Development**
+- 💻 Full Stack Developer with a strong interest in scalable software
 - 📄 IEEE Research Author (ICICT 2026)
-- 🌱 Currently learning **Advanced AI, Full Stack Development & Cloud**
-- 🚀 Building projects that solve real-world problems
+- 🌱 Currently learning **Advanced AI, Cloud Computing & System Design**
+- 🚀 Love building real-world software that creates impact
