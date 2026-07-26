@@ -97,6 +97,54 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 ```
 
 
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,mysql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Machine Learning
+- Artificial Intelligence
+- Natural Language Processing
+- Prompt Engineering
+- Data Analysis
+- Scikit-Learn
+- Streamlit
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+Also Experienced With
+
+- Google Colab
+- Jupyter Notebook
+- MySQL Workbench
+- Cisco Packet Tracer
 
 ---
 
