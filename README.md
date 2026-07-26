@@ -58,3 +58,53 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 - 📄 IEEE Research Author (ICICT 2026)
 - 🌱 Currently learning **Advanced AI, Cloud Computing & System Design**
 - 🚀 Love building real-world software that creates impact
+
+
+---
+
+# 💻 whoami
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ > whoami                                                    │
+├──────────────────────────────────────────────────────────────┤
+│ 👤 Name        : Vinay Gopalam                              │
+│ 💼 Role        : Software Engineer                          │
+│ 🎓 Degree      : B.Tech Computer Science & Engineering      │
+│ 🏫 University  : Vignan University                          │
+│ 📍 Location    : Andhra Pradesh, India                      │
+│ 🤖 Focus       : AI • Machine Learning • Full Stack         │
+│ 📚 Research    : IEEE Conference Author                     │
+│ 🌱 Learning    : AI, Cloud Computing, System Design         │
+│ 🚀 Goal        : Build impactful software for millions      │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🚀 Current Focus
+
+```text
+[██████████░░░░░░░░] Data Structures & Algorithms
+
+[██████████████░░░░] Full Stack Development
+
+[████████████████░░] Machine Learning
+
+[██████████████████] Artificial Intelligence
+
+[████████████░░░░░░] Open Source Contribution
+```
+
+
+
+---
+
+## ⚡ Fun Facts
+
+- 🤖 I enjoy building AI-powered applications.
+- 💻 I love writing clean, maintainable code.
+- 📚 I believe learning never stops.
+- 🧩 I enjoy solving programming and DSA problems.
+- 🏏 Huge fan of Virat Kohli.
+- ☕ Debugging with coffee always feels better.
