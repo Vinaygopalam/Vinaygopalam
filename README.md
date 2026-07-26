@@ -456,10 +456,19 @@ Certifications
 
 <div align="center">
 
-# 🚀 Thanks for Stopping By!
 
-*"Every project begins with curiosity, grows through persistence, and becomes meaningful when it creates real impact."*
 
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting My GitHub
+
+I believe great software is built through **continuous learning, curiosity, collaboration, and consistency.**
+
+Whether it's developing intelligent applications, contributing to research, or solving real-world problems, I'm always excited to learn something new and build something meaningful.
+
+---
 
 ### 🚀 Let's Connect • Collaborate • Build Together
 
