@@ -60,6 +60,7 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 - 🚀 Love building real-world software that creates impact
 
 
+
 ---
 
 # 💻 whoami
@@ -80,6 +81,7 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
+
 ---
 
 ## 🚀 Current Focus
@@ -95,6 +97,20 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 
 [████████████░░░░░░] Open Source Contribution
 ```
+
+
+
+---
+
+## ⚡ Fun Facts
+
+- 🤖 I enjoy building AI-powered applications.
+- 💻 I love writing clean, maintainable code.
+- 📚 I believe learning never stops.
+- 🧩 I enjoy solving programming and DSA problems.
+- 🏏 Huge fan of Virat Kohli.
+- ☕ Debugging with coffee always feels better.
+
 
 
 ---
@@ -146,13 +162,39 @@ Also Experienced With
 - MySQL Workbench
 - Cisco Packet Tracer
 
+
+
 ---
 
-## ⚡ Fun Facts
+# 📊 GitHub Analytics
 
-- 🤖 I enjoy building AI-powered applications.
-- 💻 I love writing clean, maintainable code.
-- 📚 I believe learning never stops.
-- 🧩 I enjoy solving programming and DSA problems.
-- 🏏 Huge fan of Virat Kohli.
-- ☕ Debugging with coffee always feels better.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinaygopalam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygopalam&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaygopalam&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaygopalam&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinaygopalam&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
