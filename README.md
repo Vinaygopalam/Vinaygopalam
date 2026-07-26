@@ -354,3 +354,58 @@ https://github.com/Vinaygopalam
 
 Future  👨‍💻 Software Engineer | AI Engineer | Full Stack Developer
 ```
+
+
+---
+
+# 🎓 Professional Certifications
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+## 🏆
+
+# 15+
+
+Professional
+
+Certifications
+
+</td>
+
+<td>
+
+### 📚 Areas of Learning
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+💻 Python Programming
+
+🗄 SQL & Database Management
+
+🌐 Web Development
+
+🔐 Cybersecurity
+
+☁️ Cloud Computing Fundamentals
+
+📝 Prompt Engineering
+
+📊 Data Analysis
+
+🗣 Communication & Professional Skills
+
+📈 Agile Project Management
+
+</td>
+
+</tr>
+
+</table>
+
+> 📖 *Committed to continuous learning through industry certifications, hands-on projects, research, and practical software development.*
