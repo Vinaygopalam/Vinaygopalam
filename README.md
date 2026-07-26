@@ -191,10 +191,80 @@ Also Experienced With
 
 ---
 
-# 🏆 GitHub Achievements
+---
 
-<p align="center">
+# 🚀 Featured Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vinaygopalam&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<table>
 
-</p>
+<tr>
+
+<td width="50%">
+
+### 🎫 Grab Your Seat
+
+Online Event Ticket Booking Platform
+
+✨ Features
+
+- Responsive UI
+- Ticket Booking
+- User Friendly Design
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+🔗 **Live Demo**
+
+https://grabyourtickets.netlify.app/
+
+</td>
+
+<td width="50%">
+
+### 🤝 Skill Exchange Platform
+
+A collaborative platform where learners exchange knowledge and skills.
+
+**Tech Stack**
+
+Python • HTML • CSS • JavaScript • MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 Mental Health Risk Detector
+
+AI-powered application using Machine Learning and NLP to identify early mental health risks.
+
+**Tech Stack**
+
+Python • Machine Learning • NLP • Streamlit
+
+</td>
+
+<td width="50%">
+
+### 🖼 AI Image Studio
+
+Generate AI images using Pollinations AI.
+
+Features
+
+✨ Magic Enhance
+
+🎲 Surprise Me
+
+📥 Download Image
+
+</td>
+
+</tr>
+
+</table>
