@@ -273,61 +273,84 @@ https://github.com/Vinaygopalam
 
 ---
 
-# 📄 Research Publication
 
-<table>
+---
+---
 
-<tr>
+# 🌟 Career Highlight
 
-<td width="25%" align="center">
+> ## 📄 Published IEEE Research Paper
+>
+> ### LSFTP: A Lightweight Secure File Transfer Protocol with Integrity Verification and Attack Detection for Academic Networks
+>
+> 🏛️ **Conference**
+>
+> 2026 9th International Conference on Inventive Computation Technologies (ICICT 2026)
+>
+> Kathmandu, Nepal
+>
+> ---
+>
+> ### 🚀 My Contributions
+>
+> ✅ Designed a Lightweight Secure File Transfer Protocol
+>
+> ✅ Implemented AES Encryption & Diffie-Hellman Key Exchange
+>
+> ✅ Added SHA-256 Hashing & HMAC Authentication
+>
+> ✅ Detects Replay Attacks & Unauthorized Access
+>
+> ✅ Optimized for High Security with Low Computational Overhead
+>
+> ---
+>
+> 🏢 **Publisher:** IEEE
+>
+> 🔖 **DOI:** 10.1109/ICICT68280.2026.11510950
+>
+> 📚 **Research Area:** Cybersecurity • Network Security • Secure Communication
+>
+> 🔗 **Read Publication**
+>
+> https://ieeexplore.ieee.org/document/11510950
 
-# 🏆
 
-### IEEE
-
-International Conference
-
-ICICT 2026
-
-</td>
-
-<td width="75%">
-
-## LSFTP: A Lightweight Secure File Transfer Protocol with Integrity Verification and Attack Detection for Academic Networks
-
-📍 **Published at**
-
-2026 9th International Conference on Inventive Computation Technologies (ICICT 2026)
-
-Kathmandu, Nepal
 
 ---
 
-### 📚 Research Highlights
+# 🛤️ Developer Journey
 
-- 🔐 Designed a lightweight secure file transfer protocol for academic networks.
-- 🔑 Implemented Diffie-Hellman Key Exchange.
-- 🔒 Integrated AES Encryption for secure communication.
-- 🛡 SHA-256 Hashing & HMAC Authentication.
-- 🚫 Detects replay attacks, tampering, and unauthorized access.
-- ⚡ Optimized for security with low computational overhead.
+```text
+2023  🎓 Started B.Tech in Computer Science & Engineering
 
----
+        │
+        ▼
 
-**Publisher**
+2024  💻 Built My First Web Development Projects
 
-IEEE
+        │
+        ▼
 
-**DOI**
+2025  🤖 Started Learning Artificial Intelligence & Machine Learning
 
-10.1109/ICICT68280.2026.11510950
+        │
+        ▼
 
-📖 **Publication**
+2026  📄 Published IEEE Research Paper
 
-https://ieeexplore.ieee.org/document/11510950
+        │
+        ▼
 
-</td>
+2026  🚀 Built Full Stack & AI Projects
 
-</tr>
+        │
+        ▼
 
-</table>
+2026  🌱 AI Builder Virtual Internship
+
+        │
+        ▼
+
+Future  👨‍💻 Software Engineer | AI Engineer | Full Stack Developer
+```
