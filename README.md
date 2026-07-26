@@ -192,6 +192,7 @@ Also Experienced With
 ---
 
 ---
+---
 
 # 🚀 Featured Projects
 
@@ -199,69 +200,69 @@ Also Experienced With
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎫 Grab Your Seat
+## 🤝 Skill Exchange Platform
 
-Online Event Ticket Booking Platform
+A **full-stack collaborative learning platform** where users can share skills, connect with others, exchange knowledge, and communicate through real-time chat.
 
-✨ Features
+### ✨ Key Highlights
 
-- Responsive UI
-- Ticket Booking
-- User Friendly Design
+- 🔐 JWT Authentication
+- 💬 Real-time Chat using Socket.io
+- 🤝 Skill Exchange Requests
+- 🔔 Real-time Notifications
+- ⭐ Reviews & Ratings
+- 📊 Leaderboard & Dashboard
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-HTML • CSS • JavaScript
+`React` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
+
+<br>
 
 🔗 **Live Demo**
 
-https://grabyourtickets.netlify.app/
+https://skill-exchange-iota.vercel.app/login
+
+<br>
+
+📂 **GitHub Repository**
+
+https://github.com/Vinaygopalam/skill-exchange
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤝 Skill Exchange Platform
+## 🧠 Mental Health Risk Detector
 
-A collaborative platform where learners exchange knowledge and skills.
+An **AI-powered NLP application** that analyzes social media posts and classifies mental health risk using Machine Learning.
 
-**Tech Stack**
+### ✨ Key Highlights
 
-Python • HTML • CSS • JavaScript • MySQL
+- 🤖 NLP & Machine Learning
+- 📊 TF-IDF Vectorization
+- 📈 Model Comparison
+- 📄 Batch CSV Prediction
+- 📉 Interactive Dashboard
+- 🌐 Streamlit Deployment
 
-</td>
+### 🛠 Tech Stack
 
-</tr>
+`Python` `Scikit-Learn` `NLTK` `Streamlit` `Pandas`
 
-<tr>
+<br>
 
-<td width="50%">
+🔗 **Live Demo**
 
-### 🧠 Mental Health Risk Detector
+https://mental-health-risk-detector-8kqr.onrender.com/
 
-AI-powered application using Machine Learning and NLP to identify early mental health risks.
+<br>
 
-**Tech Stack**
+📂 **GitHub Repository**
 
-Python • Machine Learning • NLP • Streamlit
-
-</td>
-
-<td width="50%">
-
-### 🖼 AI Image Studio
-
-Generate AI images using Pollinations AI.
-
-Features
-
-✨ Magic Enhance
-
-🎲 Surprise Me
-
-📥 Download Image
+https://github.com/Vinaygopalam
 
 </td>
 
