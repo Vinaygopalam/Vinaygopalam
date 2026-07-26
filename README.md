@@ -87,7 +87,7 @@ Building intelligent software solutions using AI, Machine Learning, Python, and 
 ## 🚀 Current Focus
 
 ```text
-[██████████░░░░░░░░] Data Structures & Algorithms
+[████████████████░░] Data Structures & Algorithms
 
 [██████████████░░░░] Full Stack Development
 
