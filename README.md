@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vinay Gopalam</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • AI & ML Enthusiast
+Software Engineer • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-Building intelligent, full-stack software — from real-time platforms to published security research.
+Building intelligent software solutions using AI, Machine Learning, Python, and Full Stack Technologies.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer+(MERN);AI+%26+ML+Enthusiast;IEEE+Research+Author;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;IEEE+Research+Author;Always+Learning+🚀" />
 </p>
 
 ---
@@ -52,33 +52,146 @@ Building intelligent, full-stack software — from real-time platforms to publis
 
 # 🚀 About Me
 
-- 🎓 Final-year B.Tech CSE @ **Vignan University**, graduating 2027
-- 💻 Full-stack developer — building and shipping production-style MERN apps with real-time features
-- 📄 Published IEEE research author (ICICT 2026) — security protocol design & implementation
-- 🎯 **Looking for:** SDE / Full Stack Developer roles where I can ship real product
-- 🌱 Currently sharpening DSA, system design, and cloud fundamentals
+- 🎓 B.Tech Computer Science & Engineering @ **Vignan University**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 💻 Full Stack Developer with a strong interest in scalable software
+- 📄 IEEE Research Author (ICICT 2026)
+- 🌱 Currently learning **Advanced AI, Cloud Computing & System Design**
+- 🚀 Love building real-world software that creates impact
+
+
 
 ---
 
-# 🌟 Career Highlight
+# 💻 whoami
 
-> ## 📄 Published IEEE Research Paper
->
-> ### LSFTP: A Lightweight Secure File Transfer Protocol with Integrity Verification and Attack Detection for Academic Networks
->
-> 🏛️ **2026 9th International Conference on Inventive Computation Technologies (ICICT 2026)** — Kathmandu, Nepal
->
-> **My contributions:**
-> - Designed a lightweight secure file transfer protocol from scratch
-> - Implemented AES encryption & Diffie-Hellman key exchange
-> - Added SHA-256 hashing & HMAC authentication
-> - Built detection for replay attacks & unauthorized access
-> - Optimized for strong security with low computational overhead
->
-> 🏢 **Publisher:** IEEE &nbsp;|&nbsp; 🔖 **DOI:** [10.1109/ICICT68280.2026.11510950](https://ieeexplore.ieee.org/document/11510950)
->
-> 📚 **Area:** Cybersecurity • Network Security • Secure Communication
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ > whoami                                                    │
+├──────────────────────────────────────────────────────────────┤
+│ 👤 Name        : Vinay Gopalam                              │
+│ 💼 Role        : Software Engineer                          │
+│ 🎓 Degree      : B.Tech Computer Science & Engineering      │
+│ 🏫 University  : Vignan University                          │
+│ 📍 Location    : Andhra Pradesh, India                      │
+│ 🤖 Focus       : AI • Machine Learning • Full Stack         │
+│ 📚 Research    : IEEE Conference Author                     │
+│ 🌱 Learning    : AI, Cloud Computing, System Design         │
+│ 🚀 Goal        : Build impactful software for millions      │
+╰──────────────────────────────────────────────────────────────╯
+```
 
+
+---
+
+## 🚀 Current Focus
+
+```text
+[██████████░░░░░░░░] Data Structures & Algorithms
+
+[██████████████░░░░] Full Stack Development
+
+[████████████████░░] Machine Learning
+
+[██████████████████] Artificial Intelligence
+
+[████████████░░░░░░] Open Source Contribution
+```
+
+
+
+---
+
+## ⚡ Fun Facts
+
+- 🤖 I enjoy building AI-powered applications.
+- 💻 I love writing clean, maintainable code.
+- 📚 I believe learning never stops.
+- 🧩 I enjoy solving programming and DSA problems.
+- 🏏 Huge fan of Virat Kohli.
+- ☕ Debugging with coffee always feels better.
+
+
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,mysql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Machine Learning
+- Artificial Intelligence
+- Natural Language Processing
+- Prompt Engineering
+- Data Analysis
+- Scikit-Learn
+- Streamlit
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+Also Experienced With
+
+- Google Colab
+- Jupyter Notebook
+- MySQL Workbench
+- Cisco Packet Tracer
+
+
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinaygopalam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygopalam&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaygopalam&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaygopalam&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+---
 ---
 
 # 🚀 Featured Projects
@@ -91,18 +204,32 @@ Building intelligent, full-stack software — from real-time platforms to publis
 
 ## 🤝 Skill Exchange Platform
 
-A **full-stack peer-to-peer skill trading platform** — users list skills they can teach, find people who can teach them something in return, and coordinate through real-time chat.
+A **full-stack collaborative learning platform** where users can share skills, connect with others, exchange knowledge, and communicate through real-time chat.
 
-**Highlights**
-- 🔐 JWT authentication
-- 💬 Real-time chat via Socket.io (with message delete, emoji picker)
-- 🤝 Skill exchange request/matching system
-- 🔔 Real-time notifications
-- ⭐ Reviews & ratings, leaderboard, dashboard
+### ✨ Key Highlights
 
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT`
+- 🔐 JWT Authentication
+- 💬 Real-time Chat using Socket.io
+- 🤝 Skill Exchange Requests
+- 🔔 Real-time Notifications
+- ⭐ Reviews & Ratings
+- 📊 Leaderboard & Dashboard
 
-🔗 [Live Demo](https://skill-exchange-iota.vercel.app/login) &nbsp;|&nbsp; 📂 [Repo](https://github.com/Vinaygopalam/skill-exchange)
+### 🛠 Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
+
+<br>
+
+🔗 **Live Demo**
+
+https://skill-exchange-iota.vercel.app/login
+
+<br>
+
+📂 **GitHub Repository**
+
+https://github.com/Vinaygopalam/skill-exchange
 
 </td>
 
@@ -110,17 +237,32 @@ A **full-stack peer-to-peer skill trading platform** — users list skills they 
 
 ## 🧠 Mental Health Risk Detector
 
-An **NLP-powered classifier** that analyzes social media text and flags mental health risk signals, with batch CSV prediction and an interactive dashboard.
+An **AI-powered NLP application** that analyzes social media posts and classifies mental health risk using Machine Learning.
 
-**Highlights**
-- 🤖 TF-IDF vectorization + model comparison across classifiers
-- 📄 Batch CSV prediction
-- 📉 Interactive results dashboard
-- 🌐 Deployed on Streamlit
+### ✨ Key Highlights
 
-**Stack:** `Python` `Scikit-Learn` `NLTK` `Streamlit` `Pandas`
+- 🤖 NLP & Machine Learning
+- 📊 TF-IDF Vectorization
+- 📈 Model Comparison
+- 📄 Batch CSV Prediction
+- 📉 Interactive Dashboard
+- 🌐 Streamlit Deployment
 
-🔗 [Live Demo](https://mental-health-risk-detector-8kqr.onrender.com/) &nbsp;|&nbsp; 📂 [Repo](https://github.com/Vinaygopalam/mental-health-risk-detector)
+### 🛠 Tech Stack
+
+`Python` `Scikit-Learn` `NLTK` `Streamlit` `Pandas`
+
+<br>
+
+🔗 **Live Demo**
+
+https://mental-health-risk-detector-8kqr.onrender.com/
+
+<br>
+
+📂 **GitHub Repository**
+
+https://github.com/Vinaygopalam
 
 </td>
 
@@ -128,47 +270,147 @@ An **NLP-powered classifier** that analyzes social media text and flags mental h
 
 </table>
 
-> 📝 Note: update the Mental Health Risk Detector repo link above to the actual repo URL (it was pointing to your profile page before).
 
 ---
 
-# 🛠️ Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,c,java,javascript,mysql" /></p>
+---
+---
 
-**Web Development**
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" /></p>
+# 🌟 Career Highlight
 
-**AI / ML**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /></p>
+> ## 📄 Published IEEE Research Paper
+>
+> ### LSFTP: A Lightweight Secure File Transfer Protocol with Integrity Verification and Attack Detection for Academic Networks
+>
+> 🏛️ **Conference**
+>
+> 2026 9th International Conference on Inventive Computation Technologies (ICICT 2026)
+>
+> Kathmandu, Nepal
+>
+> ---
+>
+> ### 🚀 My Contributions
+>
+> ✅ Designed a Lightweight Secure File Transfer Protocol
+>
+> ✅ Implemented AES Encryption & Diffie-Hellman Key Exchange
+>
+> ✅ Added SHA-256 Hashing & HMAC Authentication
+>
+> ✅ Detects Replay Attacks & Unauthorized Access
+>
+> ✅ Optimized for High Security with Low Computational Overhead
+>
+> ---
+>
+> 🏢 **Publisher:** IEEE
+>
+> 🔖 **DOI:** 10.1109/ICICT68280.2026.11510950
+>
+> 📚 **Research Area:** Cybersecurity • Network Security • Secure Communication
+>
+> 🔗 **Read Publication**
+>
+> https://ieeexplore.ieee.org/document/11510950
 
-NLP • Prompt Engineering • Data Analysis • Scikit-Learn • Streamlit
 
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>
-
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /></p>
-
-Also: Google Colab • Jupyter Notebook • MySQL Workbench • Cisco Packet Tracer
 
 ---
 
-# 📊 GitHub Analytics
+# 🛤️ Developer Journey
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinaygopalam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygopalam&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
+```text
+2023  🎓 Started B.Tech in Computer Science & Engineering
+
+        │
+        ▼
+
+2024  💻 Built My First Web Development Projects
+
+        │
+        ▼
+
+2025  🤖 Started Learning Artificial Intelligence & Machine Learning
+
+        │
+        ▼
+
+2026  📄 Published IEEE Research Paper
+
+        │
+        ▼
+
+2026  🚀 Built Full Stack & AI Projects
+
+        │
+        ▼
+
+2026  🌱 AI Builder Virtual Internship
+
+        │
+        ▼
+
+Future  👨‍💻 Software Engineer | AI Engineer | Full Stack Developer
+```
+
 
 ---
 
-# 🎓 Certifications & Learning
+# 🎓 Professional Certifications
 
-> 📖 *15+ certifications across AI, Python, SQL, Web Development, Cybersecurity, Cloud Fundamentals, and Agile — [link a certificate wall / Credly page here once ready].*
+<table>
 
-Core areas: Artificial Intelligence • Machine Learning • Python • SQL & Databases • Web Development • Cybersecurity • Cloud Fundamentals • Prompt Engineering • Data Analysis • Agile Project Management
+<tr>
+
+<td align="center" width="25%">
+
+## 🏆
+
+# 15+
+
+Professional
+
+Certifications
+
+</td>
+
+<td>
+
+### 📚 Areas of Learning
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+💻 Python Programming
+
+🗄 SQL & Database Management
+
+🌐 Web Development
+
+🔐 Cybersecurity
+
+☁️ Cloud Computing Fundamentals
+
+📝 Prompt Engineering
+
+📊 Data Analysis
+
+🗣 Communication & Professional Skills
+
+📈 Agile Project Management
+
+</td>
+
+</tr>
+
+</table>
+
+> 📖 *Committed to continuous learning through industry certifications, hands-on projects, research, and practical software development.*
+
+
 
 ---
 
@@ -202,7 +444,31 @@ Core areas: Artificial Intelligence • Machine Learning • Python • SQL & Da
 
 </p>
 
+
+
+---
+
 <div align="center">
+
+
+
+---
+
+<div align="center">
+
+
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting My GitHub
+
+I believe great software is built through **continuous learning, curiosity, collaboration, and consistency.**
+
+Whether it's developing intelligent applications, contributing to research, or solving real-world problems, I'm always excited to learn something new and build something meaningful.
+
+---
 
 ### 🚀 Let's Connect • Collaborate • Build Together
 
