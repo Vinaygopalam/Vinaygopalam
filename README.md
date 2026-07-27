@@ -5,13 +5,12 @@ Software Engineer • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-Building intelligent software solutions using AI, Machine Learning, Python, and Full Stack Technologies.
+Building intelligent software solutions through AI, Machine Learning, Python, and modern Full Stack Development.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;IEEE+Research+Author;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;IEEE+Research+Author;Building+Real-World+Software;Always+Learning+🚀" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
