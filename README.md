@@ -261,17 +261,13 @@ https://mental-health-risk-detector-8kqr.onrender.com/
 
 📂 **GitHub Repository**
 
-https://github.com/Vinaygopalam
+https://github.com/Vinaygopalam/Mental-Health-Risk-Detector
 
 </td>
 
 </tr>
 
 </table>
-
-
----
-
 
 ---
 ---
